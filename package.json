@@ -8,5 +8,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mimi-Afsana/full-stack-manufracturer-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mimi-Afsana/full-stack-manufracturer-server/issues"
+  },
+  "homepage": "https://github.com/Mimi-Afsana/full-stack-manufracturer-server#readme",
   "description": ""
 }
